@@ -41,34 +41,6 @@ Dataset yang digunakan adalah data produksi padi Indonesia bulanan periode **201
 | Maksimum | 9.768 |
 | Standar Deviasi | 2.122 |
 
----
-
-## Visualisasi Data
-
-### Pola Produksi Padi Indonesia 2018–2025
-
-![Produksi Padi Indonesia](img/produksi_padi_2018_2025.png)
-
-Grafik menunjukkan bahwa produksi padi Indonesia memiliki pola fluktuatif dan musiman. Produksi cenderung meningkat pada periode panen raya dan menurun pada akhir tahun.
-
----
-
-## Identifikasi Pola Musiman
-
-### Plot Musiman Berdasarkan Bulan
-
-![Plot Musiman](img/plot_musiman_bulanan.png)
-
-Pola musiman menunjukkan bahwa produksi padi cenderung mencapai puncak pada bulan **Maret–April**, sedangkan produksi terendah umumnya terjadi pada **Januari dan Desember**.
-
-### Boxplot Produksi Berdasarkan Bulan
-
-![Boxplot Bulanan](img/boxplot_produksi_bulanan.png)
-
-Boxplot memperlihatkan adanya perbedaan tingkat produksi antarbulan. Bulan Maret dan April memiliki median produksi tertinggi, sedangkan Januari dan Desember memiliki produksi relatif rendah.
-
----
-
 ## Tahapan Analisis
 
 1. Melakukan statistik deskriptif data produksi padi.
